@@ -20,5 +20,9 @@ public class User {
     public void setPassword(String password) {
         this.password = password;
     }
+    public void setId(int int1) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setId'");
+    }
 
 }
